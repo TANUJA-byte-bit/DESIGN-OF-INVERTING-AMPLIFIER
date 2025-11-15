@@ -47,4 +47,4 @@ Inverting amplifier:
 
 
 ## RESULT:
-<img width="862" height="1280" alt="image" src="https://github.com/user-attachments/assets/04cd02fc-2926-4717-a63c-c0e53db70c12" />
+Thus the design and construct a inverting amplifier is tested successfully.
